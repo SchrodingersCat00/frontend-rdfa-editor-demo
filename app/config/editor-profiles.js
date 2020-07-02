@@ -8,11 +8,11 @@ export default {
    * - dbpedia-info-plugin : fetches info about a dbpedia link and displays them in a card [https://github.com/lblod/ember-rdfa-editor-dbpedia-info-plugin]
   */
   default: [
-    //"rdfa-editor-date-plugin",
-    //"rdfa-editor-date-overwrite-plugin",
+    "rdfa-editor-date-plugin",
+    "rdfa-editor-date-overwrite-plugin",
     //"rdfa-editor-standard-template-plugin",
-    // "rdfa-editor-wikipedia-slug-plugin",
-    // "rdfa-editor-dbpedia-info-plugin"
+    "rdfa-editor-wikipedia-slug-plugin",
+    "rdfa-editor-dbpedia-info-plugin"
   ],
   none: []
 };
